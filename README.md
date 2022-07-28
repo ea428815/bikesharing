@@ -33,8 +33,12 @@
 
 *	This shows the breakdown of the types of Citi Bike users. Citi Bike users are more often subscribers than customers.
 
+![169721358-35ccc3cf-0a9d-4f94-bc69-8e16d35bfac1](https://user-images.githubusercontent.com/62758795/181404675-11dd3321-77c7-48b2-ac8d-f06219314848.png)
 
 *	A visualization was created to correlate the popularity of different starting locations. The most popular starting locations are in Manhattan, possibly by popular locations.
+*	
+<img width="830" alt="Screen Shot 2022-07-27 at 10 08 53 PM" src="https://user-images.githubusercontent.com/62758795/181405002-1a22a457-03cb-4623-9179-10b6b42ea865.png">
+
 
 ***The full Tableau story dashboard are available on Tableau public (
 https://public.tableau.com/app/profile/elizabeth8693/viz/Bikesharing_16581927933470/BikesharingStory
