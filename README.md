@@ -13,20 +13,23 @@
 
 *	The duration of trips was calculated to see how long users check out bikes. The majority of bike trips are 1 hour as indicated below.
 
-
+<img width="1413" alt="Screen Shot 2022-07-27 at 8 50 57 PM" src="https://user-images.githubusercontent.com/62758795/181401826-a2fdeae5-ccb8-467b-ad90-f982ba240bb7.png">
 
 *	The visualization above showcases the trip durations per gender that utilizes Citi Bike. Citi Bike users are typically male and spend less than 3 hours on a trip.
 
+<img width="1432" alt="Screen Shot 2022-07-27 at 8 52 05 PM" src="https://user-images.githubusercontent.com/62758795/181401887-642f13de-4fc7-4e71-abc9-969727aff869.png">
 
 *	This analysis was aimed at determining the most popular days and times for bikesharing in NYC. Each weekday has times during which Citi Bikes are utilized frequently.
 
+<img width="552" alt="Screen Shot 2022-07-27 at 8 54 07 PM" src="https://user-images.githubusercontent.com/62758795/181402072-a6709585-866b-46d9-b1dc-085c7274d4b9.png">
 
 *	The weekly usage was further broken down to look at the popular days/times for the users of different genders. Men appear to utilize more Citi Bikes throughout out the week than Females.
 
+<img width="1437" alt="Screen Shot 2022-07-27 at 9 57 47 PM" src="https://user-images.githubusercontent.com/62758795/181403795-fe0b3dfe-478f-4329-8d0f-5755e3825578.png">
 
 *	Another visualization was created to show the popular days for different user types. More Males and Females are subscribers to Citi Bikes, whereas the gender for customers is largely unknown.
 
-
+<img width="1437" alt="Screen Shot 2022-07-27 at 9 05 53 PM" src="https://user-images.githubusercontent.com/62758795/181402208-f690b6e3-93ab-480f-9537-9ebde2420c7c.png">
 
 *	This shows the breakdown of the types of Citi Bike users. Citi Bike users are more often subscribers than customers.
 
